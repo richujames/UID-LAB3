@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>Channel Orange</title>
+  </head>
+  <body>
+    <style>
+        .button {
+        background-color: orange;
+        color: white;
+        border-radius: 10px;
+        }
+        .button:hover {
+        background-color: darkorange;
+        }
+        </style>
+        <button class="button">Button 1</button>
+        <button class="button">Button 2</button>
+        <button class="button">Button 3</button>
+        <button class="button">Button 4</button>
+  </body>
+</html>
