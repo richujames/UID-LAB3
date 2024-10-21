@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mother's Kitchen</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            display: flex;
+            border: 2px solid black;
+            width: 600px;
+            padding: 10px;
+            justify-content: space-between;
+            align-items: center;
+        }
+        h1 {
+            font-size: 24px;
+            margin-right: 20px;
+        }
+        p {
+            margin-right: 20px;
+        }
+        .boxes {
+            display: flex;
+        }
+        .red-box, .green-box {
+            width: 100px;
+            height: 100px;
+        }
+        .red-box {
+            background-color: red;
+        }
+        .green-box {
+            background-color: lightgreen;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="text-content">
+            <h1>Mother's Kitchen</h1>
+            <p>Welcome to our website</p>
+        </div>
+        <div class="boxes">
+            <div class="red-box"></div>
+            <div class="green-box"></div>
+        </div>
+    </div>
+
+</body>
+</html>
