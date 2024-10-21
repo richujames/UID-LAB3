@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>Channel Orange</title>
+  </head>
+  <body>
+    <style>
+        #list-item-1, #list-item-2, #list-item-3 {
+        text-decoration: none;
+        font-style: italic;
+        list-style-type: circle;
+        }
+        a:link {
+        color: red;
+        }
+        a:visited {
+        color: blue;
+        }
+        a:hover {
+        color: green;
+        }
+        a:active {
+        color: orange;
+        }
+        </style>
+        <ul>
+        <li><a id="list-item-1" href="Song1.html">Track 1</a></li>
+        <li><a id="list-item-2" href="Song2.html">Track 2 </a></li>
+        <li><a id="list-item-3" href="Song3.html">Track 3</a></li>
+        </ul>
+  </body>
+</html>
