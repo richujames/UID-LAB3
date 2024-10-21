@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Gallery</title>
+    <link rel="stylesheet" href="lab3.3.css">
+</head>
+<body>
+    <div class="menu-bar">
+        <h2 >Mother's Kitchen</h2>
+         <div class="menu-links">
+            <a href="#">Home</a> |
+            <a href="#">About Us</a> | 
+            <a href="#">Special Menus</a> | 
+            <a href="#">Contact Us</a> 
+        </div>   
+    </div>
+    <div class="gallery">
+    <h2 style="text-align: center;">Special Menus</h2>
+    <table>
+        <tr>
+            <td>
+                <img src="https://img.freepik.com/free-photo/fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai_188544-9469.jpg?semt=ais_hybrid" height="100px" width="100px" alt="Food 1">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quo doloribus velit aliquam aut ipsa vel recusandae cumque praesentium beatae iusto perferendis debitis, atque eum ipsum saepe nam numquam tempore?</p>
+            </td>
+            <td>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvC1pGhW7_BRwnGuBguLE99tfA0faYflekCA&s" height="100px" width="100px" alt="Food 2">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quo doloribus velit aliquam aut ipsa vel recusandae cumque praesentium beatae iusto perferendis debitis, atque eum ipsum saepe nam numquam tempore?</p>
+            </td>
+            <td>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3jTszSflQt-SjZGIWqJRegF0GrAVzpCQtg&s" height="100px" width="100px" alt="Food 3">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quo doloribus velit aliquam aut ipsa vel recusandae cumque praesentium beatae iusto perferendis debitis, atque eum ipsum saepe nam numquam tempore?</p>
+            </td>
+            <td>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS016i7QVGbRW8XvOe2jzcU1W5YTpGyE0Od3Q&s" height="100px" width="100px" alt="Food 4">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio quo doloribus velit aliquam aut ipsa vel recusandae cumque praesentium beatae iusto perferendis debitis, atque eum ipsum saepe nam numquam tempore?</p>
+            </td>
+        </tr>
+    </table>
+    <button class="order">order here</button>
+</div>
+</body>
+</html>
