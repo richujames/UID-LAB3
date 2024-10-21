@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LAB 3</title>
+</head>
+
+<body>
+    <style>
+        .highlight 
+        {
+        background-color: yellowgreen;
+        font-weight: bold;
+        }
+        .title {
+        text-align: center;
+        color: red;
+        font-weight: bold;
+        }
+        h2 
+        {
+            font-size: 1.5em;
+            text-decoration: underline;
+        }
+ </style>
+ <h1 class="title">Crack Rock</h1>
+ <h2>During the ninth track of channel ORANGE,</h2>
+ <p>T Frank Ocean speaks about a man overcome by an addiction to crack cocaine, and comments on the issues of the so-called “War on Drugs” in America. <br> In a 2012 interview with The Guardian, Ocean stated how his grandfather influenced the record: <br>
+ For a song like Crack Rock, my grandfather, who had struggled to be a father for my mum and my uncle… his second chance at fatherhood was me. In his early 20s, he had a host of problems with addiction and substance abuse. When I knew him, he was a mentor for the NA and the AA groups. I used to go to the meetings and hear these stories from the addicts—heroin and crack and alcohol.  <span class="highlight">So stories like that influence a song like that.</span></p>
+ <h2>In the same interview with The Guardian,</h2>
+ <p> Ocean stated the reason it’s sung with a little bit of “fractured breathiness” is because <span class="highlight">“that’s how a smoker would sing it.” </span></p>
+ <h2>In a 2012 interview with The New York Times, Ocean also spoke about those AA & NA meetings:</h2>
+ <p><span class="highlight">It totally ingrained this fear of addiction and of anything that could cause me to be addicted.</span>
+“Crack Rock” of course can literally mean what the man is a user of, but also the word “crack” can be like a cracked rock, which can be interpreted into the split of this man with his life. He has lost everything, and is now alone. The “crack” has come between him and his family, and just his life in general.</p>
+       
+    
+</body>
+</html>
