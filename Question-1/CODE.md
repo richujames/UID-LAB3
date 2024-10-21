@@ -2,7 +2,7 @@
 
 Answer:
 
-  CODE: <div style="border: 1px solid green; padding: 15px; background-color: lightgray;">
+  CODE: "<div style="border: 1px solid green; padding: 15px; background-color: lightgray;">
         Pyramids.
-        </div>
+        </div>"
  
