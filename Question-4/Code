@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Channel Orange</title>
+  </head>
+  <body>
+    <h1>Channel Orange</h1>
+    <h2>Track List</h2>
+    <p>1. Start<br>
+       2. Thinkin Bout You<br>
+       3. Fertilizer<br>
+       4. Sierra Leone<br>
+       5. Sweet Life<br>
+       6. Not Just Money<br>
+       7. Super Rich Kids<br>
+       8. Pilot Jones<br>
+       9. Crack Rock<br>
+       10. Pyramids<br>
+       11. Lost<br>
+       12. White<br>
+       13. Monks<br>
+       14. Bad Religion<br>
+       15. Pink Matter<br>
+       16. Forrest Gump<br>
+       17. End
+    </p>
+    
+    <h2>Album Description</h2>
+    <p>
+      "Channel Orange" is the debut studio album by Frank Ocean, released on July 10, 2012. It features a blend of R&B, jazz-funk, and electro-soul, with deeply emotional and introspective lyrics. The album was praised for its innovative sound and Ocean's unique storytelling ability.
+    </p>
+    
+    <h2>Album Topics</h2>
+    <p>
+      The album touches on themes of unrequited love, sexuality, addiction, and materialism. Frank Ocean explores these subjects with a mix of personal reflection and social commentary, making "Channel Orange" a complex and emotionally charged body of work.
+    </p>
+    
+    <img src="image.jpeg" alt="Sample Image">
+  </body>
+</html>
