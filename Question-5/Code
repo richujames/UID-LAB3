@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 2px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: black;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #ccff99; /* Light green color */
+        }
+        tr:nth-child(odd) {
+            background-color: #4d4d4d; /* Dark gray color */
+            color: white; /* White text for better contrast */
+        }
+    </style>
+    <title>Styled Table</title>
+</head>
+<body>
+
+    <table>
+        <tr>
+            <th>First Name</th>
+            <th>Second Name</th>
+            <th>Roll Number</th>
+        </tr>
+        <tr>
+            <td>trdy</td>
+            <td>Test</td>
+            <td>test</td>
+        </tr>
+        <tr>
+            <td>Test</td>
+            <td>Test</td>
+            <td>test</td>
+        </tr>
+        <tr>
+            <td>Test</td>
+            <td>Test</td>
+            <td>test</td>
+        </tr>
+        <tr>
+            <td>Test</td>
+            <td>Test</td>
+            <td>test</td>
+        </tr>
+        <tr>
+            <td>Test</td>
+            <td>Test</td>
+            <td>test</td>
+        </tr>
+        <tr>
+            <td>Test</td>
+            <td>Test</td>
+            <td>test</td>
+        </tr>
+        <tr>
+            <td>Test</td>
+            <td>Test</td>
+            <td>test</td>
+        </tr>
+        <tr>
+            <td>Test</td>
+            <td>Test</td>
+            <td>test</td>
+        </tr>
+    </table>
+
+</body>
+</html>
